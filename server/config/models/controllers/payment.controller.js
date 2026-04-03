@@ -1,4 +1,4 @@
-import razorpay from "../../../services/Razorpay.service.js";
+import razorpay from "../../../services/razorpay.service.js";
 import crypto from "crypto";
 import Payment from "../payment.model.js";
 import User from "../user.model.js";
