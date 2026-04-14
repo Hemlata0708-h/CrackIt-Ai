@@ -11,7 +11,7 @@ import Pricing from "./pages/Pricing";
 import InterviewReport from "./pages/InterviewReport";
 import InterviewHistory from "./pages/interviewHistory";
 
-export const ServerUrl = "https://crackit-ai-qqmi.onrender.com";
+export const ServerUrl = "https://crackit-ai-vw8g.onrender.com";
 
 function App() {
   const dispatch = useDispatch();
